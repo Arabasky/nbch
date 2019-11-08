@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-console.log("ᴴᴵᴳᴴˁᴷʸ");
+console.log("Spark");
 var prefix = "h";
 client.on("message", message => {
 
@@ -18,12 +18,12 @@ client.on("message", message => {
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`Desert Bot- Script By : darkxx`);
+      console.log(`Desert Bot- Script By : Spark`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : black ' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : Spark ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`hbc | ᴴᴵᴳᴴˁᴷʸ`,"http://twitch.tv/ᴴᴵᴳᴴˁᴷʸ ᵇᶜ ")
+client.user.setGame(`hbc | ᴴᴵᴳᴴˁᴷʸ`,"http://twitch.tv/Spark ")
 client.user.setStatus("dnd")
 });
 
