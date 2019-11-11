@@ -23,7 +23,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : Spark ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`hbc | ᴴᴵᴳᴴˁᴷʸ`,"http://twitch.tv/Spark ")
+client.user.setGame(`hbc | Arab City`,"http://twitch.tv/Spark ")
 client.user.setStatus("dnd")
 });
 
